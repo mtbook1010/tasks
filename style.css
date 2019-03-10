@@ -3,6 +3,11 @@
   width: 1000px;
   height: 550px;
   background-color: #ffd800;
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
 }
 
 .space{
@@ -49,12 +54,12 @@
   width: 1000px;
   height: 70px;
   background-color: #1e2f43;  
-  color: white;
   text-align: center;
 }
 
 .works_style{
   font-size: 1.2em;
+  color: white;
 }
 
 
