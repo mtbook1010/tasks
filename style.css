@@ -6,12 +6,12 @@
   text-decoration: none;
 }
 
-.fa-bars{
+.menu_style{
   position: absolute;
-  color: white;
   top: 20px;
   right: 20px;
   z-index: 1;
+  color: white;
 }
 
 a{
