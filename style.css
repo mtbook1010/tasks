@@ -12,6 +12,13 @@
   background-color: #1e2f43;
 }
 
+.about_style{
+  position: absolute;
+  top: 225px;
+  color: white;
+  transform: rotate(90deg);
+}
+
 .contact{
   position: absolute;
   right: 0px;
@@ -19,5 +26,24 @@
   height: 550px;
   background-color: #1e2f43;
 }
-  
+
+.contact_style{
+  position: absolute;
+  top: 225px;
+  color: white;
+  transform: rotate(-90deg);
+}
+
+.works{
+  position: absolute;
+  bottom: 0px;
+  width: 1000px;
+  height: 70px;
+  background-color: #1e2f43;  
+  color: white;
+  text-align: center;
+}
+
+
+
 }
