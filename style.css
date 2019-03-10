@@ -1,5 +1,22 @@
 #main{
+  position: relative;
   width: 1000px;
-  height: 600px;
+  height: 550px;
   background-color: #ffd800;
+}
+
+.about{
+  position: absolute;
+  width: 70px;
+  height: 550px;
+  background-color: #1e2f43;
+}
+
+.contact{
+  position: absolute;
+  right: 0px;
+  width: 70px;
+  height: 550px;
+  background-color: #1e2f43;
+}  
 }
