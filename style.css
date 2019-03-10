@@ -6,6 +6,14 @@
   text-decoration: none;
 }
 
+.fa-bars{
+  position: absolute;
+  color: white;
+  top: 20px;
+  right: 20px;
+  z-index: 1;
+}
+
 a{
   text-decoration: none;
 }
